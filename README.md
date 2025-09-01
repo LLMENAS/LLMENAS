@@ -1,5 +1,5 @@
 # LLMENAS
-This is the implementation for the paper: LLMENAS: Evolutionary Neural Architecture Search via Large Language Model Guidance. This repo contains the implementation of the evaluation on CIFAR-10 using our proposed method. The full code will be released after the paper is accepted.
+This is the implementation for the paper: LLMENAS: Evolutionary Neural Architecture Search via Large Language Model Guidance. This repository provides the complete evaluation pipeline on CIFAR-10; the full code will be released upon paper acceptance.
 
 ## Architecture Evaluation on CIFAR-10
 
